@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "SellRent":1,
+    "Name": "Birla House",
+    "Type": "House",
+    "Price": 45000,
+    "Image":"prop-1"
+  },
+  {
+    "Id": 2,
+    "SellRent":2,
+    "Name": "Tata House",
+    "Type": "House",
+    "Price": 56000,
+    "Image":"prop-2"
+  },
+  {
+    "Id": 3,
+    "SellRent":1,
+    "Name": "Boys House",
+    "Type": "House",
+    "Price": 30000,
+    "Image":"prop-3"
+  },
+  {
+    "Id": 4,
+    "SellRent":2,
+    "Name": "Mini House",
+    "Type": "House",
+    "Price": 25000,
+    "Image":"prop-4"
+  },
+  {
+    "Id": 5,
+    "SellRent":1,
+    "Name": "Macro House",
+    "Type": "House",
+    "Price": 20000,
+    "Image":"prop-5"
+  },
+  {
+    "Id": 6,
+    "SellRent":1,
+    "Name": "Pearl White House",
+    "Type": "House",
+    "Price": 15000,
+    "Image":"prop-6"
+  },
+  {
+    "Id": 6,
+    "SellRent":2,
+    "Name": "Green House",
+    "Type": "House",
+    "Price": 15000
+
+  }
+]
